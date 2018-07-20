@@ -1,0 +1,81 @@
+
+#home
+{
+background-image: url('../pictures/pine.jpg');
+background-attachment: local;
+background-position: center;
+background-repeat: no-repeat; 
+background-size: cover;
+}
+#aboutMe
+{
+background-image: url('../pictures/pine2.jpg');
+background-attachment: local;
+background-position: center;
+background-repeat: no-repeat; 
+background-size: cover;
+}
+#software
+{
+background-image: url('../pictures/pine3.jpg');
+background-attachment: local;
+background-position: center;
+background-repeat: no-repeat; 
+background-size: cover;
+}
+#electronics
+{
+background-image: url('../pictures/pine4.jpg');
+background-attachment: local;
+background-position: center;
+background-repeat: no-repeat; 
+background-size: cover;
+}
+#threedDesign
+{
+background-image: url('../pictures/pine.jpg');
+background-attachment: local;
+background-position: center;
+background-repeat: no-repeat; 
+background-size: cover;
+}
+#photography
+{
+background-image: url('../pictures/pine2.jpg');
+background-attachment: local;
+background-position: center;
+background-repeat: no-repeat; 
+background-size: cover;
+}
+#fishing
+{
+background-image: url('../pictures/pine3.jpg');
+background-attachment: local;
+background-position: center;
+background-repeat: no-repeat; 
+background-size: cover;
+}
+#socialMediaLinks
+{
+background-image: url('../pictures/pine4.jpg');
+background-attachment: local;
+background-position: center;
+background-repeat: no-repeat; 
+background-size: cover;
+}
+#email
+{
+background-image: url('../pictures/pine.jpg');
+background-attachment:local;
+background-position: center;
+background-repeat: no-repeat; 
+background-size: cover;
+}
+.footer
+{
+background-color:turquoise;
+background-attachment:local;
+background-position: center;
+background-repeat: no-repeat; 
+background-size: cover;
+}
